@@ -1,0 +1,5 @@
+{
+  "name": "Infinite Wiki",
+  "description": "An AI-powered encyclopedia that generates grounded, factual wiki pages on demand using Gemini 2.5.",
+  "requestFramePermissions": []
+}
